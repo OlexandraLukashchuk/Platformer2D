@@ -1,0 +1,51 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 223936,
+                "file_path": "results\\PlayerAITest11\\My Behavior\\My Behavior-223936.onnx",
+                "reward": null,
+                "creation_time": 1704799201.2681727,
+                "auxillary_file_paths": [
+                    "results\\PlayerAITest11\\My Behavior\\My Behavior-223936.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 223936,
+            "file_path": "results\\PlayerAITest11\\My Behavior.onnx",
+            "reward": null,
+            "creation_time": 1704799201.2681727,
+            "auxillary_file_paths": [
+                "results\\PlayerAITest11\\My Behavior\\My Behavior-223936.pt"
+            ]
+        }
+    },
+    "PlayerAITest": {
+        "checkpoints": [
+            {
+                "steps": 223936,
+                "file_path": "results\\PlayerAITest11\\PlayerAITest\\PlayerAITest-223936.onnx",
+                "reward": null,
+                "creation_time": 1704799201.3108964,
+                "auxillary_file_paths": [
+                    "results\\PlayerAITest11\\PlayerAITest\\PlayerAITest-223936.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 223936,
+            "file_path": "results\\PlayerAITest11\\PlayerAITest.onnx",
+            "reward": null,
+            "creation_time": 1704799201.3108964,
+            "auxillary_file_paths": [
+                "results\\PlayerAITest11\\PlayerAITest\\PlayerAITest-223936.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 576,
+                "file_path": "results\\AITest7\\My Behavior\\My Behavior-576.onnx",
+                "reward": null,
+                "creation_time": 1702246104.31222,
+                "auxillary_file_paths": [
+                    "results\\AITest7\\My Behavior\\My Behavior-576.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 576,
+            "file_path": "results\\AITest7\\My Behavior.onnx",
+            "reward": null,
+            "creation_time": 1702246104.31222,
+            "auxillary_file_paths": [
+                "results\\AITest7\\My Behavior\\My Behavior-576.pt"
+            ]
+        }
+    },
+    "Player AI Agent": {
+        "checkpoints": [
+            {
+                "steps": 576,
+                "file_path": "results\\AITest7\\Player AI Agent\\Player AI Agent-576.onnx",
+                "reward": null,
+                "creation_time": 1702246104.4205813,
+                "auxillary_file_paths": [
+                    "results\\AITest7\\Player AI Agent\\Player AI Agent-576.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 576,
+            "file_path": "results\\AITest7\\Player AI Agent.onnx",
+            "reward": null,
+            "creation_time": 1702246104.4205813,
+            "auxillary_file_paths": [
+                "results\\AITest7\\Player AI Agent\\Player AI Agent-576.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}
